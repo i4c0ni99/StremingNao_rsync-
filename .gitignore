@@ -160,3 +160,70 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icone dei file aggiunti da macOS
+Icon?
+._*
+
+# Cartelle di sistema di macOS
+.Spotlight-V100
+.Trashes
+.fseventsd
+.VolumeIcon.icns
+
+# Cartelle di sistema di Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Cartelle di sistema di Linux
+lost+found/
+
+# File di log vari
+*.log
+
+# File temporanei
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Ambiente di Python
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Ambiente di Node.js
+node_modules/
+
+# File di compilazione
+*.out
+*.o
+*.a
+*.so
+*.dll
+*.exe
+
+# Risorse di build
+dist/
+build/
+.tmp/
+
+# Configurazioni dell'editor
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Altro
+*.bak
