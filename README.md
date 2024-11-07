@@ -38,6 +38,6 @@ Il modulo `ALVideoCapture` è un proxy API fornito dal sistema operativo del rob
    
 5. Aprire sulla tua macchina locale un nuovo terminale e eseguire il file rsync.sh per avviare cosi una comunicazione attraverso ssh che all'occorrenza prelevera i file .avi.
    
-6. con quest'ultimo script python la catena sara completa,eseguire visualize.py per renderizzare le immagini prelevate dal nao.
+6. Con quest'ultimo script python la catena sara completa,eseguire visualize.py per renderizzare le immagini prelevate dal nao.
 
     
